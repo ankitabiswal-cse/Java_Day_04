@@ -4,6 +4,7 @@ public class Pattern4 {
             for(int j =1;j<=i;j++){
                 System.out.print((char)(64+j)+ " ");
             }
+
             System.out.println( );
         }
     }
